@@ -5,9 +5,9 @@ The player plays against the computer, and the result is displayed after each ro
 
 Technologies Used
 
-   HTML
-   CSS
-   JavaScript
+  * HTML
+  * CSS
+  * JavaScript
   
 Project Files
 
